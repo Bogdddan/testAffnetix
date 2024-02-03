@@ -1,0 +1,21 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
+
+/* Стилі для планшетів */
+@media screen and (min-width: 600px) and (max-width: 1023px) {
+  }
+  
+  /* Стилі для комп'ютерів та більших екранів */
+  @media screen and (min-width: 1024px) {
+
+  }
